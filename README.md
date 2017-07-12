@@ -1,5 +1,4 @@
 # 451 - Browser extension
-(https://github.com/SingaporeCSS/logo/raw/master/logo.png)
 ![451_Logo(PNG)](https://raw.githubusercontent.com/codarrenvelvindron/451/master/icons/icon_128.png)
 ## Project and Goals:
 ### Champions: Niels ten Oever (ARTICLE 19), dkg (ACLU), Joe Hall (CDT)
