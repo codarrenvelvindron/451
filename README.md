@@ -1,9 +1,9 @@
 # 451 - Browser extension
 
-Project and Goals:
-Champions: Niels ten Oever (ARTICLE 19), dkg (ACLU), Joe Hall (CDT)
-Background: HTTP error code 451 (RFC7725) is an error code to report legal obstacles for serving a webpage. During the hackathon we will focus on implementing and measuring this status code to make censorship more transparent.
-As part of ietf99,
+## Project and Goals:
+### Champions: Niels ten Oever (ARTICLE 19), dkg (ACLU), Joe Hall (CDT)
+###Background: HTTP error code 451 (RFC7725) is an error code to report legal obstacles for serving a webpage. During the hackathon we will focus on implementing and measuring this status code to make censorship more transparent.
+### Purpose: As part of ietf99,
 a browser plugin which would report to the user, and optionally to the webcrawler, cases of HTTP error code 451
 
 Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
