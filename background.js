@@ -4,11 +4,4 @@
 // Based on RFC7725
 // coded @ IETF 99
 // MIT License
-
-function getWeekNumber(dateVar) {
-}
-result();
-
-
-function result(){
-}
+// background functions here
