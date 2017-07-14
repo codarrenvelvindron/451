@@ -25,6 +25,10 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 https://github.com/adadgio/safari-reader-js
 
 ## Changelog
+### 1.0.5
+* Added different icons for status codes
+* Black for no 451 and Red for 451
+
 ### 1.0.4
 * Removed click button to check
 * Extension now grabs current page and checks for 451
