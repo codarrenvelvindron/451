@@ -18,6 +18,10 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 ### Opera: Not published yet
 
 ## Changelog
+### 1.0.3
+* Added specific check for 451
+* Extension now gives output to user in cases of censorship
+
 ### 1.0.2
 * Polishing some logo designs
 
