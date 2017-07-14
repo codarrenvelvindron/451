@@ -17,12 +17,18 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 ### Chrome: Not published yet
 ### Opera: Not published yet
 
-## Testing/Installation instructions
+## Installation/Testing instructions
 1. "Download Zip" from Github repository
 2. Load as unpacked extension in your browser's extension page
-3. Click on extension logo and check any website for censorship
+3. Click on extension logo and http 451 will check current tab's url for censorship
+4. Sample websites to test:
+https://github.com/adadgio/safari-reader-js
 
 ## Changelog
+### 1.0.4
+* Removed click button to check
+* Extension now grabs current page and checks for 451
+
 ### 1.0.3
 * Added specific check for 451
 * Extension now gives output to user in cases of censorship
