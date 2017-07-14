@@ -17,6 +17,11 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 ### Chrome: Not published yet
 ### Opera: Not published yet
 
+## Testing/Installation instructions
+1. "Download Zip" from Github repository
+2. Load as unpacked extension in your browser's extension page
+3. Click on extension logo and check any website for censorship
+
 ## Changelog
 ### 1.0.3
 * Added specific check for 451
