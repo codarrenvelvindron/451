@@ -19,8 +19,8 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 
 ## Installation/Testing instructions
 1. "Download Zip" from Github repository
-2. Load as unpacked extension in your browser's extension page
-3. Click on extension logo and http 451 will check current tab's url for censorship
+2. Load as unpacked extension in your extension page
+3. http 451 will check current tab's url for censorship with an indication
 4. Sample websites to test:
 https://github.com/adadgio/safari-reader-js
 
@@ -28,6 +28,7 @@ https://github.com/adadgio/safari-reader-js
 ### 1.0.6
 * http 451 now updates on currently active Tab
 * Removed popup
+* Removed non-needed permissions
 
 ### 1.0.5
 * Added different icons for status codes
