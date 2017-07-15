@@ -1,5 +1,5 @@
 # 451 - Browser extension
-![451_Logo(PNG)](https://raw.githubusercontent.com/codarrenvelvindron/451/master/icons/451/icon_128.png)
+![451_Logo(PNG)](https://raw.githubusercontent.com/codarrenvelvindron/451/master/icons/icon_128.png)
 
 ## Project and Goals:
 
@@ -19,10 +19,13 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 
 ## Installation/Testing instructions
 1. "Download Zip" from Github repository
-2. Load as unpacked extension in your extension page
-3. http 451 will check current tab's url for censorship with an indication
-4. Sample websites to test:
-https://github.com/adadgio/safari-reader-js
+2. Extract contents
+3. Chrome --> 3 dots -> More Tools -> Extension -> Load Unpacked Extension
+4. Firefox --> Go to the addon page-> Click on the wheel -> Debug Addons -> Load Temporary Addon
+5. http 451 will check current tab's url for censorship with an indication
+6. Sample websites to test:
+https://github.com/adadgio/safari-reader-js -> Apple's original work
+https://github.com/mikey1234/plugin.video.itv -> Pirated BBC stream
 
 ## Changelog
 ### 1.0.6
