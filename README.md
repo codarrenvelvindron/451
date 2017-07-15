@@ -1,5 +1,5 @@
 # 451 - Browser extension
-![451_Logo(PNG)](https://raw.githubusercontent.com/codarrenvelvindron/451/master/icons/icon_128.png)
+![451_Logo(PNG)](https://raw.githubusercontent.com/codarrenvelvindron/451/master/icons/451/icon_128.png)
 
 ## Project and Goals:
 
