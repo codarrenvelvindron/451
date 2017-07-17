@@ -6,9 +6,12 @@ var n = none.localeCompare(items.Urls);
 
 	if (n == 0) {
 		document.getElementById("detect").textContent = "No censorship detected!";
+<<<<<<< HEAD
 	}
 	else if (n == -1){
 		document.getElementById("detect").textContent = "Invalid test page!";
+=======
+>>>>>>> fa108cda67fa350dab7a7e933513d49914e774be
 	}
 	else {
 		document.getElementById("detect").style.color="red";
