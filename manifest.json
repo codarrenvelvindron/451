@@ -6,6 +6,11 @@
 	"short_name": "http 451",
 	"author": "Codarren Velvindron",
 	"background": { "scripts": ["background.js"] },
+	"applications": {
+		"gecko": {
+			"id": "hcgeljpelhhglkolgncjlbhiombomebi@codarren.com"
+  		}
+	},
 	"permissions": [
 		"<all_urls>",
 		"storage",

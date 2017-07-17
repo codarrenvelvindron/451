@@ -28,6 +28,12 @@ https://github.com/adadgio/safari-reader-js -> Apple's original work
 https://github.com/mikey1234/plugin.video.itv -> Pirated BBC stream
 
 ## Changelog
+### 1.0.8
+* Added compatibility elements for firefox
+
+### 1.0.7
+* Added output messages
+
 ### 1.0.6
 * http 451 now updates on currently active Tab
 * Removed popup

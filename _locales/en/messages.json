@@ -1,14 +1,14 @@
 {
   "appName": {
-    "message": "http 451",
+    "message": "451 Censorship Detector",
     "description": "application title"
   },
   "appDesc": {
-    "message": "This app checks for error 451!", 
+    "message": "451 Censorship Detector verifies in real time if the website in the tab is blocked for legal reasons and turns red if censorship is detected", 
     "description":"Description in chrome store"
   },
   "appAction": {
-    "message": "http 451", 
+    "message": "451 Censorship Detector", 
     "description":"tooltip"
   }
 }
