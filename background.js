@@ -13,13 +13,13 @@ function listener(highlightInfo){
 			path : "icons/451/icon_128.png"
 		    });
 			JSON.stringify(Url);
-			chrome.storage.local.set({ "Urls" : Url }, function() {
+			chrome.storage.sync.set({ "Urls" : Url }, function() {
 			//store urls
 			});
 		}
 		else { //no censorship detected, do something
 			JSON.stringify(Err);
-			chrome.storage.local.set({ "Urls" : Err }, function() {
+			chrome.storage.sync.set({ "Urls" : Err }, function() {
 			//clear
 			});
 		}
