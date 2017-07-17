@@ -1,6 +1,6 @@
 {
 	"name": "__MSG_appName__",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"description": "__MSG_appDesc__",
 	"default_locale": "en",
 	"short_name": "http 451",
@@ -8,9 +8,11 @@
 	"background": { "scripts": ["background.js"] },
 	"permissions": [
 		"<all_urls>",
+		"storage",
 		"tabs"],
 	"browser_action": {
 		"default_title": "__MSG_appAction__",
+		"default_popup": "popup.html",
 		"default_icon": "icons/icon_16.png"
 	},
 	"icons": {
