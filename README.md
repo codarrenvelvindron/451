@@ -14,7 +14,7 @@ Official Page: https://www.ietf.org/registration/MeetingWiki/wiki/99hackathon
 
 ## Download
 ### Firefox: Not published yet
-### Chrome: Not published yet
+### Chrome: https://chrome.google.com/webstore/detail/451-censorship-detector/gohjicbdbalkdcfpaldolimmidackndl
 ### Opera: Not published yet
 
 ## Installation/Testing instructions
